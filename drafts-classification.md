@@ -41,7 +41,7 @@ existing tools in fulfilling requirements.
 solution that can fill the identified gaps in existing tools and
 solutions.
 
-   + Study FCAPS (fault, configuration, accounting, performance,
+   + (**OAM**) Study FCAPS (fault, configuration, accounting, performance,
 security) requirements, mechanisms, and suitability of existing
 messaging protocols (NETCONF) and data models (YANG).
 
