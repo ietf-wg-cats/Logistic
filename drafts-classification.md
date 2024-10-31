@@ -50,25 +50,25 @@ messaging protocols (NETCONF) and data models (YANG).
 | I-D                                           |Title                                                                     | Topic              | In/Out Scope |
 |----------------------------------------------:|:-------------------------------------------------------------------------|:------------------:|:------------:|
 |draft-jeong-cats-its-use-cases                 |Use Cases for Computing-Aware Intelligent Transportation Systems Use Cases| Use Cases          |      ?       |
-|draft-lcmw-cats-midhaul                        | CATS for Midhaul Networks Use Cases	           | Use Cases          |      ?       |
+|draft-lcmw-cats-midhaul                        | CATS for Midhaul Networks Use Cases	                                   | Use Cases          |      ?       |
 |draft-wang-cats-security-considerations        | Security Considerations for Computing-Aware Traffic Steering 	           | Framework          |      ?       |
-|draft-wang-cats-usecase-green                  | A Use case for Green Computing-Aware Traffic Steering                    | Use Cases          |      ?       |
-|draft-ysl-cats-metric-definition               | CATS metric Definition                                                   | Metrics            |      ?       |
+|draft-wang-cats-usecase-green                  | A Use case for Green Computing-Aware Traffic Steering                    | Use Cases          |      OUT     |
+|draft-ysl-cats-metric-definition               | CATS metric Definition                                                   | Metrics            |      IN      |
 |draft-lu-cats-smam-security                    | A mechanism of security monitoring and management for service resources in CATS| Solutions    |      ?       |
 |draft-shi-cats-analysis-of-metric-distribution | Design analysis of methods for distributing the computing metric	       | Metrics            |      ?       |
 |draft-yi-cats-hierarchical-metric-distribution | Hierarchical methods of computing metrics distribution	                 | Metrics            |      ?       |
 |draft-yuan-cats-hierarchical-loop-prevention   | Microloop Prevention in a Hierarchical Segment Routing Solution for CATS | Solutions          |      ?       |	
 |draft-jiang-cats-usecase-5gedge                | Computing-Aware 5G Edge Enhancement                                      | Use Cases          |      ?       |
 |draft-wang-cats-awareness-system-for-casfc     | Information Awareness System for Computing-Aware SFC: Security Service Aspect|Framework | ?|	
-|draft-bernardos-cats-anchoring-service-mobility| Service Mobility-Enabled CATS using IP address anchoring| Solutions|      ?       |	
-|draft-bernardos-cats-ip-address-anchoring      | Computing Aware Traffic Steering using IP address anchoring              | Solutions          |      ?        |	
-|draft-fu-cats-muti-dp-solution                 | Analysis for Multiple Data Plane Solutions of CATS | Applicability|      ?        |	
-|draft-fu-cats-oam-fw                           | Operations, Administration and Maintenance (OAM) for CATS	|  OAM  |      ?        |
+|draft-bernardos-cats-anchoring-service-mobility| Service Mobility-Enabled CATS using IP address anchoring| Solutions        |      ?       |	
+|draft-bernardos-cats-ip-address-anchoring      | Computing Aware Traffic Steering using IP address anchoring                | Solutions          |      ?        |	
+|draft-fu-cats-muti-dp-solution                 | Analysis for Multiple Data Plane Solutions of CATS                         | Applicability|      ?        |	
+|draft-fu-cats-oam-fw                           | Operations, Administration and Maintenance (OAM) for CATS	                 |  OAM  |      ?        |
 |draft-yl-cats-data-model                       | Data Model for CATS	                                                     | OAM                |      ?        |
-|draft-fu-cats-flow-lb                          | Flow-Level Load Balancing of CATS	   | Solutions          |      ?        |	
+|draft-fu-cats-flow-lb                          | Flow-Level Load Balancing of CATS	                                         | Solutions          |      ?        |	
 |draft-yi-cats-hybrid-solution                  | Hybrid Computing and Network Awareness and Routing Solution for CATS     | Solutions          |      ?        |	
 |draft-du-cats-aggregated-metrics-on-egress     | Aggregated Metrics on Egress Node and Corresponding Routing Mechanism	   | Metrics            |      ?        |
-|draft-wang-cats-green-challenges               | Green Challenges in CATS              | Use Cases          |      ?        |
+|draft-wang-cats-green-challenges               | Green Challenges in CATS              | Use Cases          |      OUT        |
 |draft-du-cats-computing-modeling-description   | Computing Information Description in CATS	   | Metrics            |      ?        |	
 |draft-lbdd-cats-dp-sr                          | CATS Using Segment Routing	           | Applicability      |      ?        |
 |draft-fu-cats-sr-te-based-solution             | An SR-TE based Solution For CATS	           | Applicability      |      ?        |	
