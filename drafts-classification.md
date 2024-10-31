@@ -50,7 +50,7 @@ messaging protocols (NETCONF) and data models (YANG).
 | I-D                                           |Title                                                                     | Topic              | In/Out Scope |
 |----------------------------------------------:|:-------------------------------------------------------------------------|:------------------:|:------------:|
 |draft-jeong-cats-its-use-cases                 |Use Cases for Computing-Aware Intelligent Transportation Systems Use Cases| Use Cases          |      ?       |
-|draft-lcmw-cats-midhaul                        |Compute-Aware Traffic Steering for Midhaul Networks) Use Cases	           | Use Cases          |      ?       |
+|draft-lcmw-cats-midhaul                        | CATS for Midhaul Networks Use Cases	           | Use Cases          |      ?       |
 |draft-wang-cats-security-considerations        | Security Considerations for Computing-Aware Traffic Steering 	           | Framework          |      ?       |
 |draft-wang-cats-usecase-green                  | A Use case for Green Computing-Aware Traffic Steering                    | Use Cases          |      ?       |
 |draft-ysl-cats-metric-definition               | CATS metric Definition                                                   | Metrics            |      ?       |
@@ -59,20 +59,20 @@ messaging protocols (NETCONF) and data models (YANG).
 |draft-yi-cats-hierarchical-metric-distribution | Hierarchical methods of computing metrics distribution	                 | Metrics            |      ?       |
 |draft-yuan-cats-hierarchical-loop-prevention   | Microloop Prevention in a Hierarchical Segment Routing Solution for CATS | Solutions          |      ?       |	
 |draft-jiang-cats-usecase-5gedge                | Computing-Aware 5G Edge Enhancement                                      | Use Cases          |      ?       |
-|draft-wang-cats-awareness-system-for-casfc     | Information Awareness System for Computing-Aware Service Function Chain (IAS-CASFC): Security Service Aspect|Framework | ?|	
-|draft-bernardos-cats-anchoring-service-mobility| Service Mobility-Enabled Computing Aware Traffic Steering using IP address anchoring| Solutions|      ?       |	
+|draft-wang-cats-awareness-system-for-casfc     | Information Awareness System for Computing-Aware SFC: Security Service Aspect|Framework | ?|	
+|draft-bernardos-cats-anchoring-service-mobility| Service Mobility-Enabled CATS using IP address anchoring| Solutions|      ?       |	
 |draft-bernardos-cats-ip-address-anchoring      | Computing Aware Traffic Steering using IP address anchoring              | Solutions          |      ?        |	
-|draft-fu-cats-muti-dp-solution                 | Analysis for Multiple Data Plane Solutions of Computing-Aware Traffic Steering | Applicability|      ?        |	
-|draft-fu-cats-oam-fw                           | Operations, Administration and Maintenance (OAM) for Computing-Aware Traffic Steering	|  OAM  |      ?        |
+|draft-fu-cats-muti-dp-solution                 | Analysis for Multiple Data Plane Solutions of CATS | Applicability|      ?        |	
+|draft-fu-cats-oam-fw                           | Operations, Administration and Maintenance (OAM) for CATS	|  OAM  |      ?        |
 |draft-yl-cats-data-model                       | Data Model for CATS	                                                     | OAM                |      ?        |
-|draft-fu-cats-flow-lb                          | Flow-Level Load Balancing of Computing-Aware Traffic Steering (CATS)	   | Solutions          |      ?        |	
+|draft-fu-cats-flow-lb                          | Flow-Level Load Balancing of CATS	   | Solutions          |      ?        |	
 |draft-yi-cats-hybrid-solution                  | Hybrid Computing and Network Awareness and Routing Solution for CATS     | Solutions          |      ?        |	
 |draft-du-cats-aggregated-metrics-on-egress     | Aggregated Metrics on Egress Node and Corresponding Routing Mechanism	   | Metrics            |      ?        |
-|draft-wang-cats-green-challenges               | Green Challenges in Computing-Aware Traffic Steering (CATS)              | Use Cases          |      ?        |
-|draft-du-cats-computing-modeling-description   | Computing Information Description in Computing-Aware Traffic Steering	   | Metrics            |      ?        |	
-|draft-lbdd-cats-dp-sr                          | Computing-Aware Traffic Steering (CATS) Using Segment Routing	           | Applicability      |      ?        |
-|draft-fu-cats-sr-te-based-solution             | An SR-TE based Solution For Computing-Aware Traffic Steering	           | Applicability      |      ?        |	
-|draft-gao-cats-oam-data-collection             | OAM data collection for service decision-making in Computing-Aware Traffic Steering| OAM      |      ?        |	
+|draft-wang-cats-green-challenges               | Green Challenges in CATS              | Use Cases          |      ?        |
+|draft-du-cats-computing-modeling-description   | Computing Information Description in CATS	   | Metrics            |      ?        |	
+|draft-lbdd-cats-dp-sr                          | CATS Using Segment Routing	           | Applicability      |      ?        |
+|draft-fu-cats-sr-te-based-solution             | An SR-TE based Solution For CATS	           | Applicability      |      ?        |	
+|draft-gao-cats-oam-data-collection             | OAM data collection for service decision-making in CATS| OAM      |      ?        |	
 |draft-ftzhs-cats-industrial-requirement        | Problem statements and requirements of Deterministic CATS on the Industrial Internet| Use Cases|     ?        |
 |draft-jaehwoon-cats-mobility                   | Network-based mobility management in CATS network environment            | Solutions          |      ?        |	
 
